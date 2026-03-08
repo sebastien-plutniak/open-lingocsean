@@ -1,3 +1,8 @@
+# Open-lingOcsean 0.2
+Released: 
+
+
+
 # Open-lingOcsean 0.1
 Released: 08-03-2026
 

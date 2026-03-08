@@ -105,7 +105,7 @@ $(function () {
 # texts ----
 
 text.title <- "<h1>
-             <a href=https://www.ocsean.eu/  target=_blank><img height='40px' src=logo-ocsean.jpg></a> 
+             <a href=https://www.ocsean.eu  target=_blank><img height='40px' src=logo-ocsean.jpg></a> 
              <i><a href=https://github.com/sebastien-plutniak/open-lingocsean target=_blank>Open-lingOcsean</a></i>
               </h1>"
 
@@ -143,7 +143,7 @@ Beyond scientific research, the OCSEAN dataset functions as a living community a
                    <h2>Citation</h2>
                     <p>To cite <i>Open-lingOcsean</i>, use:
                       <ul><li>
-                      <b>Plutniak S., M. Karmin. 2026</b>. 'Open-lingOcsean: an interactive catalogue of language data from the Pacific and Southeast Asia regions (v0.1)'. <i>Zenodo</i>, doi: <a href=https://doi.org/10.5281/zenodo.TODO target=_blank>10.5281/zenodo.TODO</a>.
+                      <b>Plutniak S., M. Karmin. 2026</b>. 'Open-lingOcsean: an interactive catalogue of language data from the Pacific and Southeast Asia regions (v0.1)'. <i>Zenodo</i>, doi: <a href=https://doi.org/10.5281/zenodo.18913199 target=_blank>10.5281/zenodo.18913199</a>.
                       </li></ul>
                     </p>
                   <h2>Terms of Use</h2>
@@ -196,7 +196,7 @@ spatialCatalogueViewer::spatialCatalogueViewer(data = lingocsean.df,
                                                map.height = 600,
                                                map.area.fill.color = "white",
                                                map.area.fill.opacity = .1,
-                                               map.show.areas = T,
+                                               map.show.areas = "always",
                                                map.min.zoom = 4,
                                                table.hide.columns = c("resource.name"),
                                                table.filter = "top", 

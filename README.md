@@ -2,7 +2,7 @@
 
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 [![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-blue.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo..svg)](https://doi.org/10.5281/zenodo.)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18913198.svg)](https://doi.org/10.5281/zenodo.v)
 [![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/sebastien-plutniak/open-lingocsean/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/sebastien-plutniak/open-lingocsean)
 [![license](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.r-project.org/Licenses/GPL-3)
 [![license](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
@@ -10,7 +10,14 @@
 
 # Summary
 
-[*Open-lingOcsean*](https://analytics.huma-num.fr/open-lingocsean/) is an interactive catalogue of linguistics datasets collected by the[*OCSEAN*](https://cordis.europa.eu/project/id/873207) *OCeanic and South East Asian Navigators* European scientific project. 
+[*Open-lingOcsean*](https://analytics.huma-num.fr/open-lingocsean/) is an interactive catalogue of linguistics datasets collected by the [*OCSEAN*](https://cordis.europa.eu/project/id/873207) *OCeanic and South East Asian Navigators* European scientific project. 
+
+
+# Citation
+
+To cite Open-lingOcsean, please use:
+
+* Plutniak S., M. Karmin. 2026. 'Open-lingOcsean: an interactive catalogue of language data from the Pacific and Southeast Asia regions'. *Zenodo*, doi: [10.5281/zenodo.18913198](https://doi.org/10.5281/zenodo.18913198). 
 
 
 # Software
@@ -22,7 +29,7 @@
 
 Versions of *Open-lingOcsean* are archived for long-term preservation on:
 
-* [*Zenodo*](https://doi.org/10.5281/zenodo.)
+* [*Zenodo*](https://doi.org/10.5281/zenodo.18913199)
 * [*Softwareheritage*](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/sebastien-plutniak/open-lingocsean)
 
 
