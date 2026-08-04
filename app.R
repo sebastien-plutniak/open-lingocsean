@@ -1,7 +1,7 @@
 remotes::install_github("sebastien-plutniak/spatialCatalogueViewer", upgrade = "never")
 
-# log.df <- read.csv( "../openarcheocsean-log.csv")
-# write.csv(rbind(log.df, "date" = format(Sys.Date())), "../openarcheocsean-log.csv", row.names = F)
+log.df <- read.csv( "../openlingocsean-log.csv")
+write.csv(rbind(log.df, "date" = format(Sys.Date())), "../openlingocsean-log.csv", row.names = F)
 
 try(lingocsean.df <- read.csv("data/open-lingocsean-data_formated.csv", check.names=FALSE), silent=TRUE)
 
@@ -119,7 +119,10 @@ text.left <- "<div style=width:90%;, align=left>
     <p>
     The primary goal of OCSEAN’s linguistic work was to develop a dense and uniform language resource to support both phylogenetic and contact-based analyses in Island Southeast Asia and Oceania, particularly when combined with high‑resolution genetic data. To achieve this, the project created a comprehensive wordlist of 1,128 concepts, including many culturally significant terms specific to the region. This list surpasses standard linguistic inventories and enables deeper cross‑disciplinary insights. It covers semantic domains expected to contain both historically stable, potentially inherited vocabulary (e.g., natural and physical environments) and domains more susceptible to borrowing, particularly those related to social organization.
     </p>
-    <i>Open-lingOcsean</i>'s code source and data are available on <a href=https://github.com/sebastien-plutniak/open-lingocsean target=_blank><i>github</i></a> and archived on <a href=https://doi.org/10.5281/zenodo.TODO target=_blank><i>Zenodo</i></a>.
+    <p>
+    <i>Open-lingOcsean</i>'s code source and data are available on <a href=https://github.com/sebastien-plutniak/open-lingocsean target=_blank><i>github</i></a> and archived on <a href=https://doi.org/10.5281/zenodo.18913198 target=_blank><i>Zenodo</i></a>.
+    </p>
+    <p> About OCSEAN project's archaeological side, see also  <a href=https://analytics.huma-num.fr/open-archeocsean/  target=_blank><i>Open-archeOcsean</i></a>.
     </p>
       </div>"
 
